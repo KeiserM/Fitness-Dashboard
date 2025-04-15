@@ -62,10 +62,11 @@ lib/ ├── components/ │ ├── ...reusable widgets like cards, charts,
 ## 📦 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/KeiserM/fitness_dashboard_ui.git
+   git clone https://github.com/KeiserM/Fitness-Dashboard.git
    cd fitness_dashboard_ui
 2. Install dependencies:
     flutter pub get
+   
 ## 👨‍💻 Author
 Developed by Keiser A. Manuel as part of my Flutter learning journey focused on building responsive and interactive UI designs.
 
